@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/MyCoreApp/.vs/MyCoreApp/DesignTimeBuild/.dtbcache.v2
+/MyCoreApp/.vs/MyCoreApp/FileContentIndex
+/MyCoreApp/.vs/MyCoreApp/v17/.suo

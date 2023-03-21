@@ -6,19 +6,19 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "MyCoreApp/1.0.0": {
+      "MyApp/1.0.0": {
         "dependencies": {
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.10.14"
         },
         "runtime": {
-          "MyCoreApp.dll": {}
+          "MyApp.dll": {}
         }
       },
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.10.14": {}
     }
   },
   "libraries": {
-    "MyCoreApp/1.0.0": {
+    "MyApp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

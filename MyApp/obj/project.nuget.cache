@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "tbHcmEXgFa0qoovzPP+SoifTGtZPFYllN3qeKpBji28yD4EbLEjNYQcsXv0/1H71HcJsH5pHPGmhcXSe/4qP0A==",
   "success": true,
-  "projectFilePath": "D:\\AzureDevOps\\MyCoreApp\\MyCoreApp.csproj",
+  "projectFilePath": "D:\\DevOps2023\\MyApp\\MyApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",

@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "MyCoreApp": {
+    "MyApp": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {

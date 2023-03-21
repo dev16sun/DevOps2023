@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MyApp"
   ],
-  "SelectedNode": "\\D:\\DevOps2023",
+  "SelectedNode": "\\MyApp\\MyApp.sln",
   "PreviewInSolutionExplorer": false
 }
